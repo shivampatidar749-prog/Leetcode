@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
