@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
