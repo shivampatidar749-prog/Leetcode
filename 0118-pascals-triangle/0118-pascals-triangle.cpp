@@ -1,9 +1,9 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int numRows) {
+    vector<vector<int>> generate(int nums) {
         vector<vector<int>> ans;
 
-        for (int i = 0; i < numRows; i++) {
+        for (int i = 0; i < nums; i++) {
             vector<int> row(i + 1, 1);
 
             // Calculate middle elements
