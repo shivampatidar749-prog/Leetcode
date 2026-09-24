@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0013-roman-to-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
 | ------- |
