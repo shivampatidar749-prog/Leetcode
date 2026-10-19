@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
