@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0066-plus-one) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
