@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0067-add-binary) |
 | [0301-remove-invalid-parentheses](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0067-add-binary) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivampatidar749-prog/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivampatidar749-prog/Leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivampatidar749-prog/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivampatidar749-prog/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
